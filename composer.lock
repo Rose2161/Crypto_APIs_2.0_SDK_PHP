@@ -4075,7 +4075,7 @@
         },
         {
             "name": "symfony/process",
-            "version": "v5.4.11",
+            "version": "v5.4.51",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
@@ -4090,6 +4090,7 @@
             "require": {
                 "php": ">=7.2.5",
                 "symfony/polyfill-php80": "^1.16"
+                "symfony/process","v5.4.51"
             },
             "type": "library",
             "autoload": {
